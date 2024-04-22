@@ -1,0 +1,1 @@
+Project that demonstrates skills learned thus far through The Odin Project
