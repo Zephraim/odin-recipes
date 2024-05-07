@@ -1,5 +1,10 @@
 body {
+    font-family:'Open Sans', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    text-align: center;
     background-color: #222831;
+    
 }
 
 h1, ul {
@@ -12,4 +17,6 @@ h1 {
 
 ul {
     font-size: 24px;
+    display: inline-block;
+    text-align: left;
 }
